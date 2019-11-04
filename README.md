@@ -1,2 +1,2 @@
 # python
-exercises for python
+exercises of python
